@@ -16,3 +16,6 @@ torch
 transformers
 neuralcoref
 spacy
+#
+rasa
+nest_asyncio
